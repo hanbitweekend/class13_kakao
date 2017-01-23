@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KAKAO</string>
+    <string name="main_txt1">See Whats next</string>
+    <string name="main_txt2">카카오 톡 서비스는</string>
+    <string name="main_txt3">원하실 때 언제든지 사용하실수 있습니다.</string>
+
+    <string name="main_footer1">질문이 있으신가요? 고객센터에 문의하세요.</string>
+    <string name="main_footer2">GOF 대한민국</string>
+    <string name="main_footer3">GOF코리아 통신판매업신고번호 : 제2016-한빛2강의장</string>
+
+</resources>
